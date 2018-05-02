@@ -1,0 +1,24 @@
+/* line 4, /Users/Candice/Documents/GitHub/tts/style/sass/style.scss */
+body {
+  background: purple;
+  font-size: Helvetica, arial, sans-serif;
+}
+
+/* line 10, /Users/Candice/Documents/GitHub/tts/style/sass/style.scss */
+h1 {
+  color: #e600e6;
+  font-family: Helvetica, arial, sans-serif;
+}
+
+/* line 15, /Users/Candice/Documents/GitHub/tts/style/sass/style.scss */
+p {
+  color: #1a001a;
+  font-family: Helvetica, arial, sans-serif;
+}
+
+/* line 21, /Users/Candice/Documents/GitHub/tts/style/sass/style.scss */
+main h1 {
+  color: #1a001a;
+}
+
+/*# sourceMappingURL=../css/style.map */
